@@ -5,4 +5,5 @@ while True:
     for y in range(1,11):
         print (f'{nn} x {y} = {nn*y}')
 print (f' OBRIGADO PRO USAR O MEU PROGRAMA FOI LA ELI ')
+print ('opppp')
 
