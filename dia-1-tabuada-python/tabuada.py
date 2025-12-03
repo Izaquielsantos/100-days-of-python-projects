@@ -1,5 +1,5 @@
 while True:
-    nn= int(input('que ver a tabuadar de qual valor please?'))
+    nn= int(input('que ver a tabuadar de qual valor please?.'))
     if nn <0:
         break
     for y in range(1,11):
