@@ -9,3 +9,4 @@ if prestacao<=pos:
     print ('O seu emprestimo foi aprovado , agora e so curti o seu emprestimo')
 else:
     print ('min descupe o seu Emprestimo foi recusado, nao deu volte sempre ')
+print ('tchau, OBRIGADO')
